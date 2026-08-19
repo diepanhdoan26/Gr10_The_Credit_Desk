@@ -89,7 +89,7 @@ Shared object: `dossier -> room/portfolio state -> decision -> consequence -> ne
 
 ## README Update (Entry Point)
 
-- Tuyên bố một dòng: **The Credit Desk - một trò chơi ra quyết định dựa trên tình huống bằng tiếng Việt, nơi sinh viên thực hành đưa ra quyết định cho vay/không cho vay có cơ sở trong điều kiện room tín dụng bị giới hạn.**
+- **The Credit Desk - một trò chơi ra quyết định dựa trên tình huống bằng tiếng Việt, nơi sinh viên thực hành đưa ra quyết định cho vay/không cho vay có cơ sở trong điều kiện room tín dụng bị giới hạn.**
 - Liên kết: `W1 problem-validation.md` -> `W2 PROJECT_PROPOSAL.md` -> `W2 SOLUTION_STRUCTURE.md`.
 - "What changed after W1" -> liên kết đến revision note.
 
