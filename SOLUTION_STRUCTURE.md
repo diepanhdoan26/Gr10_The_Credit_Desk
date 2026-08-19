@@ -7,9 +7,6 @@
 Người chơi -> các trường thông tin hồ sơ + chỉ số được tính sẵn + trạng thái room -> áp dụng quyết định, cập nhật room/danh mục, phân loại so với khoảng quyết định hợp lý, giải thích -> consequence card -> phân bổ room còn lại cho hồ sơ tiếp theo.
 
 ## Initial Required Information
-
-> Đây là danh sách ban đầu, chưa phải bản cuối cùng. W3 sẽ xác định định nghĩa và nguồn dữ liệu.
-
 ### Thông tin của mỗi hồ sơ
 
 - Tuổi
