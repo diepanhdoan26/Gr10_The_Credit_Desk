@@ -38,10 +38,3 @@ Sau mỗi hồ sơ, hệ thống trả về một decision-consequence card, bao
 ## Product Pattern
 
 Sản phẩm sử dụng mô hình trò chơi ra quyết định dựa trên tình huống. Đầu ra chính là consequence card cho từng hồ sơ; đầu ra hỗ trợ là tổng kết danh mục cuối vòng, bao gồm độ chính xác, rủi ro danh mục và hiệu quả sử dụng room.
-
-## Feasibility and Open Questions
-
-- **Độ rộng của khoảng quyết định:** Khoảng quyết định hợp lý nên rộng đến mức nào trước khi sản phẩm không còn mang tính giáo dục? Giải quyết ở W4.
-- **Số lượng hồ sơ:** Bao nhiêu hồ sơ sẽ tạo ra một sự đánh đổi room tín dụng thực sự trong vòng 7 tuần? Giả thuyết hiện tại là 5 hồ sơ và sẽ được kiểm chứng trong quá trình xây dựng.
-- **Cơ sở xác định red flag:** Vẫn cần được kiểm chứng dựa trên thực tiễn tín dụng cá nhân tại Việt Nam hoặc với một chuyên gia tín dụng. Bằng chứng ở W3.
-- **Nội dung giải thích hệ quả:** Do nhóm tự xây dựng, vì vậy phải công khai rằng đây là mô phỏng/đơn giản hóa. Giả định ở W3.
